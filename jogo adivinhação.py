@@ -9,7 +9,7 @@ print("(1) Fácil (2) Médio (3) Difícil")
 nivel = int(input("Defina o nível: "))
 
 if (nivel == 1):
-    tentativas=20
+    tentativas=15
 elif (nivel == 2):
     tentativas=10
 else:
