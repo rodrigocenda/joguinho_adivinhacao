@@ -1,5 +1,8 @@
 # joguinho_adivinhacao
-Jogo de adivinhação com três dificuldades. Ainda não fiz o GUI então roda no terminal mesmo. Baseado/feito junto ao curso de Python do Alura.
+
+*** Baseado/feito junto ao curso de Python do Alura, não criei o projeto ***
+
+Jogo de adivinhação com três dificuldades. Ainda não fiz o GUI então roda no terminal mesmo.
 
 Não tem muito segredo, só rodar o código, digitar 1, 2 ou 3 pra selecionar a dificuldade (baseada no número de tentativas) e jogar.
 No final do jogo, é mostrado o "número secreto" e a pontuação.
